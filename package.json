@@ -1,0 +1,16 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass assets/scss:assets/css",
+    "compile:sass:watch": "sass assets/scss:assets/css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.69.5"
+  },
+  "devDependencies": {},
+  "description": ""
+}
